@@ -1,0 +1,4 @@
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Model\bin\Debug\LibraryManagement.Model.dll
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Model\bin\Debug\LibraryManagement.Model.pdb
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Model\obj\Debug\LibraryManagement.Model.dll
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Model\obj\Debug\LibraryManagement.Model.pdb

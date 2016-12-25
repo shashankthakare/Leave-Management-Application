@@ -1,0 +1,7 @@
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Contracts\bin\Debug\LibraryManagement.Contracts.dll
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Contracts\bin\Debug\LibraryManagement.Contracts.pdb
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Contracts\bin\Debug\LibraryManagement.Model.dll
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Contracts\bin\Debug\LibraryManagement.Model.pdb
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Contracts\obj\Debug\LeaveManagement.Contracts.csprojResolveAssemblyReference.cache
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Contracts\obj\Debug\LibraryManagement.Contracts.dll
+E:\mystuff\company\c#\LibraryManagement\LibraryManagement.Contracts\obj\Debug\LibraryManagement.Contracts.pdb
